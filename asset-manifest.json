@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/sukhman-kaur.github.io/static/css/main.b0a50ae6.chunk.css",
+    "main.js": "/sukhman-kaur.github.io/static/js/main.ad0181c0.chunk.js",
+    "main.js.map": "/sukhman-kaur.github.io/static/js/main.ad0181c0.chunk.js.map",
+    "runtime-main.js": "/sukhman-kaur.github.io/static/js/runtime-main.7e51f706.js",
+    "runtime-main.js.map": "/sukhman-kaur.github.io/static/js/runtime-main.7e51f706.js.map",
+    "static/css/2.e4777ce8.chunk.css": "/sukhman-kaur.github.io/static/css/2.e4777ce8.chunk.css",
+    "static/js/2.ca2c3b4a.chunk.js": "/sukhman-kaur.github.io/static/js/2.ca2c3b4a.chunk.js",
+    "static/js/2.ca2c3b4a.chunk.js.map": "/sukhman-kaur.github.io/static/js/2.ca2c3b4a.chunk.js.map",
+    "index.html": "/sukhman-kaur.github.io/index.html",
+    "precache-manifest.14fb637cf962a13186b1351cf54efabc.js": "/sukhman-kaur.github.io/precache-manifest.14fb637cf962a13186b1351cf54efabc.js",
+    "service-worker.js": "/sukhman-kaur.github.io/service-worker.js",
+    "static/css/2.e4777ce8.chunk.css.map": "/sukhman-kaur.github.io/static/css/2.e4777ce8.chunk.css.map",
+    "static/css/main.b0a50ae6.chunk.css.map": "/sukhman-kaur.github.io/static/css/main.b0a50ae6.chunk.css.map",
+    "static/js/2.ca2c3b4a.chunk.js.LICENSE.txt": "/sukhman-kaur.github.io/static/js/2.ca2c3b4a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/sukhman-kaur.github.io/static/media/developer.a756e011.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e51f706.js",
+    "static/css/2.e4777ce8.chunk.css",
+    "static/js/2.ca2c3b4a.chunk.js",
+    "static/css/main.b0a50ae6.chunk.css",
+    "static/js/main.ad0181c0.chunk.js"
+  ]
+}
