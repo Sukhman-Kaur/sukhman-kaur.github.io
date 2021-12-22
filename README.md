@@ -1,6 +1,6 @@
 # Portfolio
 
-A mobile-responsive portfolio scaffold. The live version can be found here: https://huishun98.github.io/
+A mobile-responsive portfolio scaffold. The live version can be found here: https://sukhman-kaur.github.io/portfolio/ 
 
 Built using React.js.
 
@@ -9,7 +9,7 @@ Built using React.js.
 ![Web view](https://github.com/huishun98/huishun98.github.io/blob/master/src/assets/portfolio.png)
 
 ### Mobile view
-<img src="https://github.com/huishun98/huishun98.github.io/blob/master/src/assets/mobile-portfolio.jpg" width="300">
+<img src="./assets/developer.jpeg" width="300">
 
 ## Key files
 1. [src/data.js](src/data.js) — Modify this file to customise the portfolio website
