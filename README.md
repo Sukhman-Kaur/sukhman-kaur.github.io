@@ -9,7 +9,7 @@ Built using React.js.
 <img src="./src/assets/portfolio.png" width="600">
 
 ### Mobile view
-<img src="./src/assets/mobile-view.png" width="300">
+<img src="./src/assets/mobile-view.PNG" width="300">
 
 ## Deployment on Github Pages
 1. Follow instructions in https://chrisdevcode.hashnode.dev/github-pages-with-react
