@@ -7,10 +7,11 @@ export default function Articles() {
     return (
         <div className="contact container-fluid section" name="contact">
             <Fade bottom>
-                <h2 className="section-header">CONTACT</h2>
+                <h2 className="section-header">Let's Talk!</h2>
             </Fade>
             <Fade bottom>
-                <p>Hit me up at <a href={"mailto:" + email} className="card-link">{email}</a> to enquire about collaboration.</p>
+            <br/>Work inquiries, questions or something else?<br/>
+                <p>Hit me up at <a href={"mailto:" + email} className="card-link">{email}</a></p>
             </Fade>
         </div>
     )

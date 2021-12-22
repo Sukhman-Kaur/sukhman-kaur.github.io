@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import { FaHeart } from "react-icons/fa";
 
 export default function Footer() {
 
@@ -11,7 +12,7 @@ export default function Footer() {
         <div>
             <div className="line"></div>
             <div className="footer">
-                © {defaultYear()} Sukhmandeep Kaur
+                © {defaultYear()} Built with <FaHeart style={{color:"red"}}/> by Sukhman 
         </div>
         </div>
     )
