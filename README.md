@@ -1,8 +1,6 @@
 # Portfolio
 
----
-permalink: /index.html
----
+
 A mobile-responsive portfolio scaffold. The live version can be found here: https://sukhman-kaur.github.io/
 
 Built using React.js.
