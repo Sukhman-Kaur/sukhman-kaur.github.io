@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "35acb3f7646796601fde9e837097fb87",
+    "revision": "5b4c693394e1b2ab86863cd8b2eab085",
     "url": "/sukhman-kaur.github.io/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sukhman-kaur.github.io/static/css/2.e4777ce8.chunk.css"
   },
   {
-    "revision": "7779f1f0b816a930e069",
+    "revision": "bf0ff81c8ecf9113a992",
     "url": "/sukhman-kaur.github.io/static/css/main.b0a50ae6.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sukhman-kaur.github.io/static/js/2.ab2f7eed.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7779f1f0b816a930e069",
-    "url": "/sukhman-kaur.github.io/static/js/main.4597b344.chunk.js"
+    "revision": "bf0ff81c8ecf9113a992",
+    "url": "/sukhman-kaur.github.io/static/js/main.291ca63a.chunk.js"
   },
   {
     "revision": "84ffd53211d7301afb41",
