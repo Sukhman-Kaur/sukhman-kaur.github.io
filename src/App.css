@@ -253,6 +253,7 @@ body, .body {
   }
   .social-media-buttons-group {
     margin-top: 20px;
+    margin-left:-10px;
   }
   .banner {
     height: 100vh;

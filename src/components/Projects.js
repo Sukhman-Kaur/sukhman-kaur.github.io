@@ -12,29 +12,6 @@ export default function Projects() {
         .then(setProjects);
     },[]);
 
-//     function ImageComponent({ project }) {
-//         const [data, setData] = useState(null);
-//         const [error, setError] = useState(null);
-//             const url=`https://raw.githubusercontent.com/${user}/${project.name}/${project.default_branch}/${project.name}.png`;
-//         useEffect(()=>{
-//             fetch({url})
-//             .then(response=>response.json())
-//             .then(setData)
-//             .catch(setError);
-//         }, [project]);
-//         if(error) return <pre>{JSON.stringify(error, null, 2)}</pre>;
-//     if(!data) return null;
-
-//     if(data){
-//         return(
-
-//         <img alt="" className="card-img-top object-top d-none d-md-block" 
-//                     src="https://miro.medium.com/max/875/1*stuRw7oDi8F8PC9GRNJnqA.jpeg" />
-//          );
-// }
-//     }
-    
-
 
     return (
         <div className="projects container-fluid section" name="projects">
@@ -49,7 +26,6 @@ export default function Projects() {
                     <div className="card text-white background-dark-lg mb-3">
                     <img alt="" className="card-img-top object-top d-none d-md-block" 
                     src={`https://raw.githubusercontent.com/${user}/${project.name}/${project.default_branch}/${project.name}.png`}></img>
-                    {/* <ImageComponent project={project}/> */}
                         <div className="card-body">
                             <div>
                                 <h5 className="card-title">{project.name}</h5>

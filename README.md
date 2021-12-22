@@ -6,10 +6,10 @@ Built using React.js.
 
 ## Example
 ### Web view
-![Web view](https://github.com/huishun98/huishun98.github.io/blob/master/src/assets/portfolio.png)
+<img src="./src/assets/portfolio.png" width="600">
 
 ### Mobile view
-<img src="./src/assets/developer.jpeg" width="300">
+<img src="./src/assets/mobile-view.png" width="300">
 
 ## Deployment on Github Pages
 1. Follow instructions in https://chrisdevcode.hashnode.dev/github-pages-with-react
