@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sukhman-kaur.github.io/static/css/main.b0a50ae6.chunk.css",
-    "main.js": "/sukhman-kaur.github.io/static/js/main.291ca63a.chunk.js",
-    "main.js.map": "/sukhman-kaur.github.io/static/js/main.291ca63a.chunk.js.map",
+    "main.js": "/sukhman-kaur.github.io/static/js/main.4597b344.chunk.js",
+    "main.js.map": "/sukhman-kaur.github.io/static/js/main.4597b344.chunk.js.map",
     "runtime-main.js": "/sukhman-kaur.github.io/static/js/runtime-main.7e51f706.js",
     "runtime-main.js.map": "/sukhman-kaur.github.io/static/js/runtime-main.7e51f706.js.map",
     "static/css/2.e4777ce8.chunk.css": "/sukhman-kaur.github.io/static/css/2.e4777ce8.chunk.css",
     "static/js/2.ab2f7eed.chunk.js": "/sukhman-kaur.github.io/static/js/2.ab2f7eed.chunk.js",
     "static/js/2.ab2f7eed.chunk.js.map": "/sukhman-kaur.github.io/static/js/2.ab2f7eed.chunk.js.map",
     "index.html": "/sukhman-kaur.github.io/index.html",
-    "precache-manifest.08dec8b4af29e28dc688c473bd746fc1.js": "/sukhman-kaur.github.io/precache-manifest.08dec8b4af29e28dc688c473bd746fc1.js",
+    "precache-manifest.e11b1b590d37112a83fa45e258069461.js": "/sukhman-kaur.github.io/precache-manifest.e11b1b590d37112a83fa45e258069461.js",
     "service-worker.js": "/sukhman-kaur.github.io/service-worker.js",
     "static/css/2.e4777ce8.chunk.css.map": "/sukhman-kaur.github.io/static/css/2.e4777ce8.chunk.css.map",
     "static/css/main.b0a50ae6.chunk.css.map": "/sukhman-kaur.github.io/static/css/main.b0a50ae6.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.e4777ce8.chunk.css",
     "static/js/2.ab2f7eed.chunk.js",
     "static/css/main.b0a50ae6.chunk.css",
-    "static/js/main.291ca63a.chunk.js"
+    "static/js/main.4597b344.chunk.js"
   ]
 }
