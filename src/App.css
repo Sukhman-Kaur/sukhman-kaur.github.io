@@ -317,6 +317,21 @@ body, .body {
   font-size: 15px;
   border: 1px solid var(--background-color-two);
 }
+.skills{
+  padding-top: 10px!important;
+}
+.skill{
+  margin:10px;
+  opacity:0.8;
+}
+.badge.badge-pill{
+  font-size: 1.5rem;
+}
+@media screen and (max-device-width: 640px) {
+  .badge.badge-pill{
+    font-size: 1rem;
+  }
+}
 
 /* footer */
 
@@ -459,7 +474,13 @@ body, .body {
 }
 
 /* articles */
+.work, .contact{
+  padding-top: 10px!important;
+}
 
+.tech{
+  margin:5px;
+}
 .long-card {
   width: 100%;
   min-height: 100px;

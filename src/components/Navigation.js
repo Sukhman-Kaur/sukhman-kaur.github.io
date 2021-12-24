@@ -30,9 +30,22 @@ export default function Navigation() {
                 smooth={true}
                 duration={300}
                 className="card-link"
-                offset={-40}
+                offset={-120}
             >Projects</Link>
-            
+            <Link
+                to="skills"
+                smooth={true}
+                duration={300}
+                className="card-link"
+                offset={-80}
+            >Skills</Link>
+            <Link
+                to="work"
+                smooth={true}
+                duration={300}
+                className="card-link"
+                offset={-40}
+            >Work</Link>
             <Link
                 to="contact"
                 smooth={true}
