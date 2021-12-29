@@ -242,8 +242,15 @@ body, .body {
 .svg-link:hover {
   opacity: 0.5;
 }
-
+@media only screen and (max-width: 576px) {
+  .profile-pic{
+    display: none;
+  }
+}
 @media only screen and (min-width: 576px) {
+  .banner-mobile{
+    display:none;
+  }
   .name {
     border-bottom: 0.2px solid var(--text-color-one);
     padding-bottom: 5px;
@@ -549,10 +556,10 @@ body, .body {
   transition: opacity 0.2s;
 }
 
-.label:hover {
+/* .label:hover {
   cursor: pointer;
   opacity: 0.5;
-}
+} */
 
 .label.active {
   border: 0.1px solid var(--link-color);

@@ -7,11 +7,13 @@ import Projects from './components/Projects.js'
 import Navigation from './components/Navigation';
 import Skills from './components/Skills';
 import Work from './components/Work';
+import BannerMobile from './components/BannerMobile';
 
 function App() {
   return (
     <div className="App body">
       <Banner />
+      <BannerMobile/>
       <Projects />
       <Skills/>
       <Work/>

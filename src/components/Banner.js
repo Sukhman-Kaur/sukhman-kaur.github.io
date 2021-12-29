@@ -4,12 +4,12 @@ import { Link } from "react-scroll";
 import { email, githubUrl, linkedInUrl,twitterUrl, displayName, bannerDescription, resumePdfTitle } from '../data';
 import { FaTwitter, FaLinkedinIn, FaEnvelope } from "react-icons/fa";
 import { GoMarkGithub } from "react-icons/go";
+import Details from './Details';
 
 export default function Banner() {
     
-
     const [showTitle, setShowTitle] = useState(false)
-    const [showButtons, setShowButtons] = useState(false)
+    const [showButtons, setShowButtons] = useState(false) 
 
     useEffect(() => {
         setShowTitle(true)
@@ -24,6 +24,7 @@ export default function Banner() {
             <div className="background"></div>
             <div className="container-fluid banner-content">
                 <div className="name-wrapper">
+                <Details login='Sukhman-Kaur'></Details>
                     <h1 className={`name fade-left-sm ${showTitle ? "show" : ""}`}>{displayName.toUpperCase()}</h1>
                     <p className={`section-description fade-right-sm ${showTitle ? "show" : ""}`}>{bannerDescription}</p>
                 </div>
