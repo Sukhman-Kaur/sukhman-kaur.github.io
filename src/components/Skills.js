@@ -21,9 +21,9 @@ export default function Skills() {
         <span className="badge badge-pill badge-light skill">Laravel</span>
         <span className="badge badge-pill badge-light skill">MySQL</span>
         <span className="badge badge-pill badge-light skill">SQL</span> 
-        <span className="badge badge-pill badge-light skill">SQLite</span>
-        <span className="badge badge-pill badge-light skill">MySQL</span>
-        <span className="badge badge-pill badge-light skill">SQL</span> 
+        <span className="badge badge-pill badge-light skill">React</span>
+        <span className="badge badge-pill badge-light skill">Microsoft Project</span>
+        <span className="badge badge-pill badge-light skill">Jira</span> 
         <span className="badge badge-pill badge-light skill">Git</span>
             
             
